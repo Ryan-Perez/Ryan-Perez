@@ -11,3 +11,4 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Perez&theme=radical&hide_border=true&layout=compact" />
 </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Perez)](https://git.io/streak-stats)
