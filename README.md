@@ -3,4 +3,4 @@
 
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Perez)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Perez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
