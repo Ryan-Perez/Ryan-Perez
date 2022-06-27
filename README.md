@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Ryan-Perez
-- 🌱 I’m currently focusing on Full-Stack applications
 
-- <p align="center">
+<p align="center">
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
 
 
