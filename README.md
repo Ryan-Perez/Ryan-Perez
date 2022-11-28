@@ -1,4 +1,3 @@
-<h1 align="center"><img  width=75% height=75% src="https://user-images.githubusercontent.com/100801498/176010555-fbfe752a-1d5e-41c4-b0f8-9b73bdfd0bca.gif" alt="animated" /></h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles,CA</h3>
 
 - 👨‍💻 All of my projects are available at [https://ryan-perez.netlify.app/#](https://ryan-perez.netlify.app/#)
@@ -8,6 +7,9 @@
 - 📄 Know about my experiences []()
 
 - ⚡ A fun fact about me is ****
+
+
+<h1 align="center"><img  width=75% height=75% src="https://user-images.githubusercontent.com/100801498/176010555-fbfe752a-1d5e-41c4-b0f8-9b73bdfd0bca.gif" alt="animated" /></h1>
 
 
 
