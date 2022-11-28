@@ -1,4 +1,4 @@
-<h1 align="center"><img  width=75% height=75% src="[profile.gif](https://user-images.githubusercontent.com/100801498/176010555-fbfe752a-1d5e-41c4-b0f8-9b73bdfd0bca.gif)" alt="animated" /></h1>
+<h1 align="center"><img  width=75% height=75% src="https://user-images.githubusercontent.com/100801498/176010555-fbfe752a-1d5e-41c4-b0f8-9b73bdfd0bca.gif" alt="animated" /></h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles,CA</h3>
 
 - 🔭 I’m currently working on **building a website for a local non-profit organization.**
