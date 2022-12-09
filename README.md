@@ -11,7 +11,7 @@
 
 <h3 align="center">A passionate full-stack developer from Los Angeles,CA</h3>
 
-- 👨‍💻 All of my projects are available at [https://ryan-perez.netlify.app/#](https://ryan-perez.netlify.app/#)
+- 👨‍💻 All of my projects are available at [https://ryanmperez.com](https://ryanmperez.com)
 
 - 📫 How to reach me **perezryanm@gmail.com**
 
