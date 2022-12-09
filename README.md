@@ -15,6 +15,4 @@
 
 - 📫 How to reach me **perezryanm@gmail.com**
 
-- 📄 Know about my experiences []()
 
-- ⚡ A fun fact about me is ****
